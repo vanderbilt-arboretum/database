@@ -1,7 +1,7 @@
 Public database for the Vanderbilt Arboretum
 ========
 
-The full arboretum tree database is part of the Vanderbilt campus GIS.  The data provided here is a subset of "trees of interest" that have been measured and whose position and taxonimic identity have been field verified.
+The full arboretum tree database is part of the Vanderbilt campus GIS.  The data provided here is a subset of "trees of interest" that have been measured and whose position and taxonomic identity have been field-verified.
 
 The measured-trees.xlsx file is the primary file and the csv version is provided so that it can be viewed directly through the GitHub Web interface.  
 

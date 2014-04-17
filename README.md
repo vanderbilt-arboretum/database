@@ -10,3 +10,6 @@ dbh (diameter at breast height) measurements were made directly using a metric d
 Points are calculated by the sum of the circumference in inches, the height in feet, and 1/4 of the crown spread in feet in accordance with the American Forests Big Tree program (http://www.americanforests.org/our-programs/bigtree/).
 
 If trees have been assigned a URI guid, it resolves to a web page about the tree showing a map of its location and information about its taxonmic determination.  The page also has links to images of parts of the tree.
+
+The arboretum website is at http://vanderbilt.edu/trees
+

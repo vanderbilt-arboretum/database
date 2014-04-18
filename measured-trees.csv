@@ -10,6 +10,7 @@ ID,species,latitude,longitude,dbh (cm),height (m),crown (m),pts.,Notes:,GUID (if
 4-487,Magnolia grandiflora,36.146058,-86.802075,134.5,25.0,17.75,263,"front Buttrick, second n. of entry walk",none
 4-855,Celtis laevigata,36.144347,-86.804361,123,29.0,17.5,262,west of Community Partnership House,none
 1-683,Quercus rubra,36.142294,-86.798446,118,29.5,20.5,260,Peabody Esplanade by the Payne building,http://bioimages.vanderbilt.edu/vanderbilt/15-227
+2-437,Quercus imbricaria,36.145406,-86.800296,114,30.2,20,256,Up against south side of Central Library,http://bioimages.vanderbilt.edu/vanderbilt/6-86
 2-253,Celtis laevigata,36.147456,-86.800894,126,22.0,27.75,251,Between Law School and Calhoun,none
 4-522,Celtis laevigata,36.144268,-86.804065,131,20.0,22.5,246,south of Community Partnership House,none
 9-4,Tilia americana,36.144892,-86.797361,124.5,21.0,19.25,239,in front of 1110 19th Ave. S.,none
@@ -24,7 +25,6 @@ ID,species,latitude,longitude,dbh (cm),height (m),crown (m),pts.,Notes:,GUID (if
 2-161,Quercus alba,36.148835,-86.801615,117,0.0,0,0,beteen Kirkland and Curry Field,none
 n/a,Quercus rubra,36.144139,-86.798651,115.5,0.0,0,0,In front of University School of Nashville (formerly Peabody Demonstration School),none
 2-854,Quercus velutina,36.146544,-86.802207,115,0.0,0,0,north of Bicentennial Oak and east of Rand,http://bioimages.vanderbilt.edu/vanderbilt/7-313
-2-437,Quercus imbricaria,36.145406,-86.800296,114,30.2,0,0,Up against south side of Central Library,http://bioimages.vanderbilt.edu/vanderbilt/6-86
 1-625,Quercus palustris?,36.143637,-86.798166,113,0.0,0,0,tallest tree in northeast Magnolia Lawn,none
 2-638,Fraxinus americana,36.147729,-86.802057,111,0.0,0,0,"west of Furman, north of Benson",none
 2-182,Catalpa speciosa,36.146564,-86.801297,111,0.0,0,0,Between the Divinity School and Garland Hall,none

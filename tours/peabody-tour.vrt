@@ -1,0 +1,11 @@
+<OGRVRTDataSource> 
+	<OGRVRTLayer name="peabody-tour"> 
+		<SrcDataSource relativeToVRT="1">peabody-tour.csv</SrcDataSource>
+		<GeometryType>wkbPoint</GeometryType> 
+		<LayerSRS>WGS84</LayerSRS> 
+		<GeometryField encoding="PointFromColumns" reportSrcColumn="false" x="longitude" y="latitude"/>
+                <Field name="Name" src="ID" type="String"/>
+                <Field name="URI" src="URI" type="String"/>
+                <Field name="order" src="order" type="String"/>
+	</OGRVRTLayer> 
+</OGRVRTDataSource>

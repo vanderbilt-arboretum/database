@@ -23,7 +23,7 @@ ID,sci-name,latitude,longitude,dia-cm,gender,notes
 3-617,Fraxinus americana,36.147271,-86.805386,60.16056849,female,gender documented with phone photo
 2-925,Fraxinus pennsylvanica,36.147405,-86.803261,60,male,gender documented with phone photo
 9-2,Fraxinus americana,36.144868,-86.797297,57,female,gender documented with phone photo
-1-590,Fraxinus americana,36.141683,-86.798339,56.18169491,,
+1-590,Fraxinus americana,36.141683,-86.798339,56.18169491,female,gender documented with photo
 2-537,Fraxinus pennsylvanica,36.148783,-86.801671,54,female,gender documented with phone photo
 4-533,Fraxinus americana,36.143152,-86.801134,53.79437077,,
 4-1119,Fraxinus americana,36.143094,-86.801077,52.83944111,,
@@ -38,7 +38,7 @@ ID,sci-name,latitude,longitude,dia-cm,gender,notes
 4-1052,Fraxinus americana,36.14344,-86.80551,43.60845441,female,gender documented with phone photo
 3-650,Fraxinus americana,36.147126,-86.806399,43,,
 4-1289,Fraxinus pennsylvanica,36.138732,-86.802123,41.85775003,,
-4-497,Fraxinus pennsylvanica,36.142911,-86.800316,41,,
+4-497,Fraxinus pennsylvanica,36.142911,-86.800316,41,female,gender documented with phone photo
 4-746,Fraxinus pennsylvanica,36.137946,-86.801142,41,,
 5-268,Fraxinus pennsylvanica,36.141472,-86.806549,40.74366543,female,gender documented with phone photo
 3-216,Fraxinus americana,36.145799,-86.804696,38.80197513,male,gender documented with phone photo
@@ -49,10 +49,10 @@ ID,sci-name,latitude,longitude,dia-cm,gender,notes
 2-684,Fraxinus americana,36.148232,-86.80116,37.56056657,female,gender documented with phone photo
 5-1255,Fraxinus pennsylvanica,36.140586,-86.811783,37.24225668,,
 4-343,Fraxinus pennsylvanica,36.13903,-86.803957,37.08310174,,
-1-961,Fraxinus pennsylvanica,36.141217,-86.79911,36.82845383,,
+1-961,Fraxinus pennsylvanica,36.141217,-86.79911,36.82845383,female,gender documented with photo
 2-815,Fraxinus americana,36.146936,-86.801442,36.60563691,male,gender documented with phone photo
 9-172,Fraxinus pennsylvanica,36.139491,-86.797769,36.44648197,,
-4-341,Fraxinus pennsylvanica,36.142921,-86.800399,36,,
+4-341,Fraxinus pennsylvanica,36.142921,-86.800399,36,female,gender documented with photo
 4-376,Fraxinus pennsylvanica,36.139058,-86.804237,35.33239737,,
 4-816,Fraxinus pennsylvanica,36.13897,-86.80465,35.01408748,,
 1-200,Fraxinus pennsylvanica,36.143805,-86.798431,35,female,gender documented with phone photo
